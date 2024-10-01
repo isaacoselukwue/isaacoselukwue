@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isaacoselukwue
 - 👀 I’m interested in .Net, C#, web3
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently pursuing my masters in Computer Science with a specialization in Machine Learning
 - 💞️ I’m looking to collaborate on cool open source projects
 - 📫 Reach me via mail...
 
